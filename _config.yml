@@ -1,28 +1,18 @@
-name: BIGBOYSMINING
-favicon: null
-layout_spectrum: 0.7874563226941973
-typography_spectrum: 0.09399841097183526
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.7744997255504131
-  lightness: 0.2884922684170306
-  saturation: 0.659699221374467
-  rhythmicContrast: 0.750873192679137
+    - '#B8B8B8'
+    - '#000000'
+    - '#787878'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.668664
+  lightness: 0.288492
+  rhythmicContrast: 0.171233
+  saturation: 0.503425
+cta: {}
+layout_spectrum: 0.234589
+name: BIGBOYSMINING
+opengraph: {}
 purpose: []
+typography_spectrum: 0.296661
