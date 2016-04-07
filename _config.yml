@@ -6,13 +6,13 @@ color:
     - '#787878'
     - '#000000'
     - '#000000'
-  brandStrength: 0.668664
-  lightness: 0.288492
-  rhythmicContrast: 0.171233
+  brandStrength: 0.522204
+  lightness: 0.479441
+  rhythmicContrast: 0.505757
   saturation: 0.503425
 cta: {}
-layout_spectrum: 0.234589
+layout_spectrum: 0.981086
 name: BIGBOYSMINING
 opengraph: {}
 purpose: []
-typography_spectrum: 0.296661
+typography_spectrum: 0.811678
