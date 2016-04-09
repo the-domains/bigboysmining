@@ -6,10 +6,10 @@ color:
     - '#787878'
     - '#000000'
     - '#000000'
-  brandStrength: 0
-  lightness: 0.504281
+  brandStrength: 0.347039
+  lightness: 0.364309
   rhythmicContrast: 0.505757
-  saturation: 0.503425
+  saturation: 0.60773
 cta: {}
 layout_spectrum: 0.989309
 name: BIGBOYSMINING
