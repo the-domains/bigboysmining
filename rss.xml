@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Construction and Maintenance Dredging]]></title>
         <description><![CDATA[Construction and Maintenance Dredging]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bigboysmining/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 13:44:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 13:47:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bigboysmining/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>BIGBOYSMINING, Wetland construction and maintenance. Creating wildlife habitats and education facilities from places that were once </p>]]></description>
+            <link>https://thegrid.ai/bigboysmining/bigboysmining-wetland-construction-and-maintenance-creatin/index.html</link>
+            <guid isPermaLink="false">168c563c-9b23-4283-848f-dccd3f71b7fe</guid>
+            <pubDate>Wed, 20 Apr 2016 13:47:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>BIGBOYSMINING Specialist in maintenance dredging of contaminated waterways.</p>]]></description>
-            <link>undefinedbigboysmining-specialist-in-maintenance-dredging-of-contamin/index.html</link>
+            <link>https://thegrid.ai/bigboysmining/bigboysmining-specialist-in-maintenance-dredging-of-contamin/index.html</link>
             <guid isPermaLink="false">a17da61f-29f5-450e-9fa7-bcf94c4a2df2</guid>
             <pubDate>Wed, 20 Apr 2016 13:44:44 GMT</pubDate>
         </item>
