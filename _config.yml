@@ -1,18 +1,29 @@
-analytics: {}
+name: BIGBOYSMINING
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.811678
+title: Construction and Maintenance Dredging
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#0b010a'
     - '#ffffff'
-    - '#123881'
-    - '#d77254'
-    - '#bbbda8'
-  brandStrength: 0.340461
+    - '#cdd2ce'
+    - '#996536'
+    - '#192639'
+    - '#2a7858'
+  brandStrength: 0
   lightness: 0.25
-  rhythmicContrast: 0
-  saturation: 0.0625
-cta: {}
-layout_spectrum: 1
-name: BIGBOYSMINING
-opengraph: {}
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []
-typography_spectrum: 0.811678
