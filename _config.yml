@@ -6,7 +6,7 @@ color:
     - '#123881'
     - '#d77254'
     - '#bbbda8'
-  brandStrength: 0
+  brandStrength: 0.340461
   lightness: 0.25
   rhythmicContrast: 0
   saturation: 0.0625
