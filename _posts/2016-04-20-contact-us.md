@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'office@bigboysmining.co. nz * 03 669 0488 * PO Box 33046, Barrington, Christchurch 8244, New Zealand * http://www.bigboysmining.co.nz * https://thegrid.ai/bigboysmining/'
-datePublished: '2016-04-21T10:49:58.409Z'
-dateModified: '2016-04-21T10:49:26.997Z'
+datePublished: '2016-04-21T10:52:41.709Z'
+dateModified: '2016-04-21T10:50:05.446Z'
 title: 'Contact Us '
 author: []
 sourcePath: _posts/2016-04-20-contact-us.md
