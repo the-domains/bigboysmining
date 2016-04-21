@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Construction and Maintenance Dredging]]></title>
-        <description><![CDATA[Construction and Maintenance Dredging]]></description>
+        <title><![CDATA[BIGBOYSMINING, Your Construction and Maintenance Dredger]]></title>
+        <description><![CDATA[BIGBOYSMINING, Your Construction and Maintenance Dredger]]></description>
         <link>https://thegrid.ai/bigboysmining/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 03:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 04:52:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigboysmining/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/bigboysmining/bigboysmining-specialist-in-maintenance-dredging-of-contamin/index.html</link>
+            <guid isPermaLink="false">a17da61f-29f5-450e-9fa7-bcf94c4a2df2</guid>
+            <pubDate>Thu, 21 Apr 2016 04:52:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contact Us]]></title>
             <description><![CDATA[<article><h1>Contact Us</h1><p>office@bigboysmining.co. nz* 03 669 0488 *PO Box 33046, Barrington, Christchurch 8244, New Zealand *</p></article>]]></description>
@@ -19,13 +25,6 @@
             <link>https://thegrid.ai/bigboysmining/about-us/index.html</link>
             <guid isPermaLink="false">26c47658-fe81-4518-8b77-814a01d67662</guid>
             <pubDate>Wed, 20 Apr 2016 20:26:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>BIGBOYSMINING Specialist in maintenance dredging of contaminated waterways.</p>]]></description>
-            <link>https://thegrid.ai/bigboysmining/bigboysmining-specialist-in-maintenance-dredging-of-contamin/index.html</link>
-            <guid isPermaLink="false">a17da61f-29f5-450e-9fa7-bcf94c4a2df2</guid>
-            <pubDate>Wed, 20 Apr 2016 13:44:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
