@@ -4,7 +4,7 @@
         <description><![CDATA[BIGBOYSMINING, Your Construction and Maintenance Dredger]]></description>
         <link>https://thegrid.ai/bigboysmining/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 10:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 10:24:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigboysmining/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Us]]></title>
@@ -14,17 +14,17 @@
             <pubDate>Thu, 21 Apr 2016 10:24:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://thegrid.ai/bigboysmining/bigboysmining-specialist-in-maintenance-dredging-of-contamin/index.html</link>
-            <guid isPermaLink="false">a17da61f-29f5-450e-9fa7-bcf94c4a2df2</guid>
-            <pubDate>Thu, 21 Apr 2016 04:52:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Contact Us]]></title>
             <description><![CDATA[<article><h1>Contact Us</h1><p>office@bigboysmining.co. nz* 03 669 0488 *PO Box 33046, Barrington, Christchurch 8244, New Zealand *</p></article>]]></description>
             <link>https://thegrid.ai/bigboysmining/contact-us/index.html</link>
             <guid isPermaLink="false">e21498be-24b1-40f4-bfd6-1aa3cd53da84</guid>
-            <pubDate>Thu, 21 Apr 2016 03:41:14 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2016 10:24:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/bigboysmining/bigboysmining-specialist-in-maintenance-dredging-of-contamin/index.html</link>
+            <guid isPermaLink="false">a17da61f-29f5-450e-9fa7-bcf94c4a2df2</guid>
+            <pubDate>Thu, 21 Apr 2016 04:52:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
