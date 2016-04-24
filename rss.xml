@@ -4,8 +4,15 @@
         <description><![CDATA[BIGBOYSMINING, Your Construction and Maintenance Dredger]]></description>
         <link>https://thegrid.ai/bigboysmining/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 23:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 23:43:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bigboysmining/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact Us]]></title>
+            <description><![CDATA[<p>Contact Us</p>]]></description>
+            <link>https://thegrid.ai/bigboysmining/contact-us/index.html</link>
+            <guid isPermaLink="false">fea2ceab-5152-493e-b27e-38b5ecbf2185</guid>
+            <pubDate>Sun, 24 Apr 2016 23:43:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Us]]></title>
             <description><![CDATA[<p>About Us</p>]]></description>
