@@ -2,12 +2,11 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T06:16:56.874Z'
-dateModified: '2016-04-26T04:42:48.558Z'
+datePublished: '2016-04-26T06:24:11.443Z'
+dateModified: '2016-04-26T06:23:56.235Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-bigboysmining-specialist-in-maintenance-dredging-of-contamin.md
@@ -22,4 +21,4 @@ starred: false
 _type: Blurb
 
 ---
-> #
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25a10a59-f483-4292-94c5-aa7ddb78a784.png)
