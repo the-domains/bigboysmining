@@ -1,13 +1,12 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: "Are you wanting to have flocculant's and coagulation treatments injected into the last section of the pipeline to speed up the de-watering process when pumping into geo bags?"
-datePublished: '2016-04-26T06:35:26.702Z'
-dateModified: '2016-04-26T06:35:25.824Z'
+description: "Are you wanting to have flocculant's and coagulation treatments injected into the last section of the pipeline to speed up the dewatering process when pumping into geo bags?"
+datePublished: '2016-04-26T06:49:48.058Z'
+dateModified: '2016-04-26T06:49:32.370Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-are-you-wanting-to-have-flocculants-and-coagulation-treatme.md
@@ -19,8 +18,9 @@ publisher:
   url: null
   favicon: null
 starred: false
+url: dewatering/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-Are you wanting to have flocculant's and coagulation treatments injected into the last section of the pipeline to speed up the de-watering process when pumping into geo bags?
+Are you wanting to have flocculant's and coagulation treatments injected into the last section of the pipeline to speed up the dewatering process when pumping into geo bags?
