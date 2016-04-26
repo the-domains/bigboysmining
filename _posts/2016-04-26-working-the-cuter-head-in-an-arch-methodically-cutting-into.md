@@ -1,12 +1,12 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: ' Working the cuter-head in an arch methodically cutting into the sediments to your required digging depth is a systematic controlled cost effective method of moving sediments to get the clients and or engineers required results. With sensors positioned on the digging arm, a monitor shows the depth of the cutter-head and can be set to a 10mm tolerance to eliminate over or under dredging. Managing the volume of sediment flow into the intake insures exceptional pumping distances when incorporating booster pumps.'
-datePublished: '2016-04-26T06:41:31.833Z'
-dateModified: '2016-04-26T06:36:29.443Z'
+datePublished: '2016-04-26T07:07:51.794Z'
+dateModified: '2016-04-26T06:41:38.229Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-26-working-the-cuter-head-in-an-arch-methodically-cutting-into.md
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: false
 url: systematic-digging/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 Working the cuter-head in an arch methodically cutting into the sediments to your required digging depth is a systematic controlled cost effective method of moving sediments to get the clients and or engineers required results. With sensors positioned on the digging arm, a monitor shows the depth of the cutter-head and can be set to a 10mm tolerance to eliminate over or under dredging. Managing the volume of sediment flow into the intake insures exceptional pumping distances when incorporating booster pumps.
