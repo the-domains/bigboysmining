@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Factors outlining volume and speed:'
-datePublished: '2016-04-26T06:50:30.439Z'
-dateModified: '2016-04-26T06:20:04.286Z'
+datePublished: '2016-04-26T06:53:00.544Z'
+dateModified: '2016-04-26T06:52:55.121Z'
 title: Questions to Ask
 author: []
 sourcePath: _posts/2016-04-22-construction-dredging-volumes-are-dependent-on-a-number-of-f.md
@@ -36,7 +36,7 @@ _type: WebPage
 **What is happening to the sediments:**
 
 * Are the sediments being pumped into geo bags for de-watering?
-* Are you wanting to have flocculant's and coagulation treatments injected to speed up the de-watering process when pumped into geo bags?
+* Are you wanting to have flocculant's and coagulation treatments injected to speed up the dewatering process when pumped into geo bags?
 * Is there a requirement to neutralize toxicity levels of sediments?
 * Are there elevations to consider?
 * How many corners are there between the dredge and t
