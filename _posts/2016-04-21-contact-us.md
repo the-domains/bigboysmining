@@ -1,25 +1,28 @@
 ---
-authors: []
-dateModified: '2016-04-24T23:43:23.074Z'
-datePublished: '2016-04-24T23:43:48.114Z'
+inFeed: false
 hasPage: true
-inFeed: true
-inNav: true
+inNav: false
+inLanguage: null
 keywords: []
-publisher: {}
+description: +64 (0)3 669 0488
+datePublished: '2016-04-26T06:21:40.863Z'
+dateModified: '2016-04-26T06:21:39.757Z'
 title: ''
-description: Contact Us
 author: []
-starred: false
 sourcePath: _posts/2016-04-21-contact-us.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: contact-us/index.html
-_type: Article
+_type: Blurb
 
 ---
-Contact Us
-
-036690488
++64 (0)3 669 0488
 
 [office@bigboysmining.co.nz][0]
 
