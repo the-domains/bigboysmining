@@ -1,13 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-21T04:52:08.958Z'
-dateModified: '2016-04-21T04:51:58.411Z'
+datePublished: '2016-04-26T04:42:40.587Z'
+dateModified: '2016-04-26T04:41:59.023Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-bigboysmining-specialist-in-maintenance-dredging-of-contamin.md
@@ -18,8 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: bigboysmining-specialist-in-maintenance-dredging-of-contamin/index.html
-_type: Article
+starred: false
+_type: Blurb
 
 ---
 > # BIGBOYSMINING Specialist in maintenance dredging of contaminated waterways.
