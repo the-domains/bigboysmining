@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Are you wanting to have flocculant's and coagulation treatments injected into the last section of the pipeline to speed up the dewatering process when pumping into geo bags?"
-datePublished: '2016-04-26T07:06:40.372Z'
-dateModified: '2016-04-26T07:06:25.089Z'
+datePublished: '2016-04-27T21:34:50.740Z'
+dateModified: '2016-04-26T07:06:45.162Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-are-you-wanting-to-have-flocculants-and-coagulation-treatme.md
